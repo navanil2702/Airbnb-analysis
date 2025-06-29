@@ -3,6 +3,8 @@
 > A data-driven SQL analysis project uncovering trends, pricing insights, and optimization opportunities in the New York City Airbnb market.
 
 ---
+![Airbnb Dashboard](https://github.com/user-attachments/assets/ddd7d0a8-b831-4d60-95a5-7b3e5fc42840)
+## LINK: https://public.tableau.com/views/AirbnbDashboard_17370405282630/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🌐 Project Overview
 This project analyzes the Airbnb NYC 2019 dataset using SQL to surface insights on pricing, demand hotspots, host performance, and missed business potential. It aims to guide marketing, pricing, and operational decisions with evidence-based metrics.
